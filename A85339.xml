@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good and ioyfull nevves out of Buckinghamshire, being an exact and true relation of a battell, stricken betwixt Prince Robert and Sir William Balfore; lievtenant generall to his Excellency, the Earle of Essex, neer Alisbury in that county on Tuesday last, the first of November, wherein the said Sir William obtain'd a happy and glorious victory.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85339</idno>
+            <idno type="STC">Wing G1035</idno>
+            <idno type="STC">Thomason E126_9</idno>
+            <idno type="STC">ESTC R20013</idno>
+            <idno type="EEBO-CITATION">99860934</idno>
+            <idno type="PROQUEST">99860934</idno>
+            <idno type="VID">113061</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113061)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E126[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good and ioyfull nevves out of Buckinghamshire, being an exact and true relation of a battell, stricken betwixt Prince Robert and Sir William Balfore; lievtenant generall to his Excellency, the Earle of Essex, neer Alisbury in that county on Tuesday last, the first of November, wherein the said Sir William obtain'd a happy and glorious victory.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb: 3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Balfour, William, --  Sir, d. 1660 --  Early works to 1800.</term>
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Buckinghamshire (England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113061:1"/>
+            <pb facs="tcp:113061:1" rendition="simple:additions"/>
+            <p>Good and Ioyfull Nevves OVT OF <hi>BVCKINGHAMSHIRE,</hi> Being an exact and true Relation of a Battell, ſtricken betwixt Prince <hi>ROBERT</hi> and Sir <hi>William Balfore;</hi>
+            </p>
+            <p>Lievtenant Generall to his Excellency, the Earle of <hi>Eſſex,</hi> neer <hi>Alisbury</hi> in that County, on <hi>Tueſday</hi> laſt, the firſt of <hi>November,</hi> wherein the ſaid. Sir <hi>William</hi> obtain'd a happy and glorious Victory.</p>
+            <figure>
+               <figDesc>woodcut of a tree</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Wright,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:113061:2"/>
+            <pb n="3" facs="tcp:113061:2"/>
+            <p>
+               <seg rend="decorInit">H</seg>Umane nature is covetous of novelties; never had that Axiome ſo pregnant proofes as in theſe dayes; never were the people ſo appetitious of newes; never were their deſires ſo anſwered with diverſity of Narrations; and to ſay truth, never were there broacht ſo many falſe and improbable relations: every man ſpea<g ref="char:EOLhyphen"/>king according to his fancie and wiſhes, and divers ſons of audacity and impudence, confidently committing ma<g ref="char:EOLhyphen"/>ny illegitimate conceptions of their owne to the publike view, which have no more affinity with truth, then the opinions of <hi>Copernicus,</hi> of the motion of the earth, or that relation of our Countryman of the new world in the <hi>Moon,</hi> or of <hi>Domingo Gonzales</hi> and his flight thi<g ref="char:EOLhyphen"/>ther upon the wings of his Ganzas: But this <hi>abs<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re,</hi> good wine needs no buſh: <hi>veritas non quarit angulos,</hi> our preſent diſcourſe needs no preface to excuſe it, be<g ref="char:EOLhyphen"/>ing a poſitive and confirm'd truth: on <hi>Tueſday</hi> laſt, <hi>All-Saints</hi> day, deſtined for holier uſes, Prince <hi>Robert,</hi> with his well beaten troops, after they were routed in the late knowne battaile by the Parliaments forces wearied with their flight, and bleeding with the wounds they had received there, ſought to refreſh themſelves in the pleaſant and plenteous County of <hi>Buckingham,</hi> in which all things exuberate that might pleaſe their appetites, or ſatisfie their wants (that Country being moſt odious to them, cauſe moſt faithfull to the Par<g ref="char:EOLhyphen"/>liament) they left no expreſſions of their hoſtility and
+<pb n="4" facs="tcp:113061:3"/>rapine unperformed ſouldiers (eſpecially wanting ones) wiſhing no better place for plunder then a <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich and fertile Province, till they arrived at <hi>Ailesbu<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> a towne one of the moſt ſignall and wealthy of that Shire, where Prince <hi>Robert</hi> with ſome ten thouſand horſe and foote, on <hi>T<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſd<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> morning, about ſix of the clock entered to the great amazement and feare of the ho<g ref="char:EOLhyphen"/>neſt inhabitans, who little expecting ſuch a ſudden greeting from the Enemy, were unprovided for de<g ref="char:EOLhyphen"/>fence, the faithfull <hi>M<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> of that good towne, be<g ref="char:EOLhyphen"/>ing unable to make reſiſtance againſt ſuch a multitude of halfe deſperate men, made a vertue of neceſſity, and gave them a free entertainment; the chiefe Ma<g ref="char:EOLhyphen"/>giſtrates there knowing it was, <hi>Prudemiae multum diſ<g ref="char:EOLhyphen"/>ſimulare,</hi> affording them good words: and to give the Divell his due, there they remained in indifferent peaceble diſpoſition, till ſome of Prince <hi>Roberts</hi> ſcouts or horſe centinels, upon the ſpurre came in, and with a ſudden alarme, gave a ſpeedy and dreadfull notice to their Generall, that there were great and formi<g ref="char:EOLhyphen"/>dable forces approaching the body of an Army, as their feares made them conjecture, of at leaſt ſix thou<g ref="char:EOLhyphen"/>ſand men, when as ſince it was certainly knowne, and credibly aſtirmed they were not above fifteen hun<g ref="char:EOLhyphen"/>dred men, or thereabouts, under the command of the valiant, Sir <hi>William Belfore,</hi> ſometimes Lievtenant of the Tower, and now Lievtenant Generall of the preſent forces for the defence of the kingdome, under his Excellency, the Earle of <hi>Eſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x,</hi> who after the late bat<g ref="char:EOLhyphen"/>tell, were ſent by the ſaid Earles carefull directions, to advance through the neighbouring Counties, and to ſecure their ſafeties, there being nothing ſo requiſite and full of commendation in generall, as to conſider diſtant dangers of his friends and confederates, with the ſame eye hee lookes upon thoſe which are pre<g ref="char:EOLhyphen"/>ſent, and threatning himſelfe: for that end therefore
+<pb n="5" facs="tcp:113061:3"/>was Sir <hi>William Belſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re</hi> ſent forth, who inveſtigating the Enemies paſſages, had certaine intelligence, that Prince <hi>Robert,</hi> with ſome of the proſligated troopes, was returned into <hi>Bucking hamſhire,</hi> and had ſixt their place of rendezvous at <hi>Al<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sbury;</hi> whither with all con<g ref="char:EOLhyphen"/>venient ſpeed the ſaid Sir <hi>William</hi> made, knowing that delaies in affaires military, as in all other actions be<g ref="char:EOLhyphen"/>get dangers, with his fifteen hundred men, being ſix horſe troops, and the foot part of Colonell <hi>Hampdens,</hi> and part of Colonell <hi>Granthams</hi> Regiments, which were the army of ſix thouſand foot and horſe, which the Cen<g ref="char:EOLhyphen"/>tinels gave information to the Prince, were then inva<g ref="char:EOLhyphen"/>ding him at not halfe an houres march diſtance, with which alarme, not affrighted, but a little troubled, hee prepared not for his defence, but to give them the <hi>bein,</hi> or the <hi>mal venu</hi> (take it as you pleaſe) to <hi>Alasbury,</hi> leaving, leſt the townes-men whom he durſt not con<g ref="char:EOLhyphen"/>fide in, ſhould fall upon his rear, a troope of horſe, and two companies of foot there in <hi>perada</hi> to ſecure the in<g ref="char:EOLhyphen"/>habitants, where, when they heard of their friends, ap<g ref="char:EOLhyphen"/>proaches, were all unmindfull to act their parts on that Theatre of war for their owne ſafeties: active ſpirits forces young men, like Lapwings, to run out of their neſt, part of the ſhell ye<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſticking to their temples; ſo it has done with this Prince <hi>Robert,</hi> whoſe fiery ſoule has rendred him too great a ſtickler in this king<g ref="char:EOLhyphen"/>domes quarrels, but he having drawne forth his Com<g ref="char:EOLhyphen"/>panies into one entire body, without the towne, hee eſpied within a quarter of a mile the Parliaments forces, which were as ready to charge him, as the Prince was them: but their wiſe and prudent Chiefe, Sir <hi>William Belfore,</hi> knowing that haſty attempts beget dangerous and uncertaine ſucceſſes, kept them in, facing the Prince with a narrow body of horſe-men, his troope being drawne out like a Pyramid, ſharpe at the top, and broad by degrees in the groſſe. Prince <hi>Robert</hi>
+               <pb n="6" facs="tcp:113061:4"/>with his owne troope, the flo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of the Cavalry, charging through Sir <hi>Will. Belfore</hi> his front: and thinking to make us find as eaſie paſſage through the reſt, Was bid to a bloody dinner in the heart of his ſquadrons. The florſemen there being at leaſt ten broad in rank, thundring death from thoſe engines of deſtruction, their Carabines and petronels into the boſome of the Princes Souldiers, who neither knew well to advance nor to retreat. Ano<g ref="char:EOLhyphen"/>ther Troope if I miſtake not, young Maſter <hi>Pyms</hi> (the hopefull Son of an excellent father, charging them hotly in their right flanks, ſo that Prince <hi>Roberts</hi> mauger his native courage was at his <hi>non plus ultra,</hi> till Sir <hi>Lewis Dives</hi> a man of as much acrimony and ſpleen as any of the malignants againſt the Parliament: fell in pell mell to the princes reſcues: having behinde each of his horſe<g ref="char:EOLhyphen"/>men a musketier, who being at competent diſtance, alighted and diffus'd their dreadfull and death bearing bullets through our ſquadrons, which then began to tot<g ref="char:EOLhyphen"/>ter from their order, ſome ten or fourteene falling in that furious charge: till Captaine <hi>Herbert Blanchard,</hi> Cap<g ref="char:EOLhyphen"/>taine of the Earle of <hi>Peterborromes</hi> Troope came in with much courage to the aid of Sir <hi>William Balfores</hi> Troope, and the foot forces on our ſide having gained both wind and ſun, ſent cheerfull vollyes of fire, ſmoak, and bullets, on the left flanke of the Princes ſquadrons, the horſes gald with the ſhot overthrowing their riders, And the Souldiers of our foot taking fire from their re<g ref="char:EOLhyphen"/>ſolv'd Captaines, animating each other to an aſſur'd con<g ref="char:EOLhyphen"/>queſt: <hi>Commiſſary Willmot</hi> who all this while had ſtood as a reſerve to the Princes Forces, then falling into this game of blood and ſlaughter, reduced the Conflict to an equall ſcale, killing ſome threeſcore of our men, when Sir <hi>William Balfore</hi> who leaving his owne Troops to the charge of his Lievtenant, had retir'd into the rear of his horſe and brought them up to the face of the Enemie, our foot in the interim wheeling about, came in upon
+<pb n="7" facs="tcp:113061:4"/>theirs with a full charge, beating them from their ſtati<g ref="char:EOLhyphen"/>ons, and diſordering their rankes. They ſent at leaſt two hundred of their men to ſalute the earth never more to riſe thence. The Prince all this while made good the fight againſt Sir <hi>William</hi> with his horſe till <hi>Commiſſary Wilmot</hi> receiving a ſhot into the ſhoulder, They began to ſhock together, and as it were to retreat: when the flight of their foot, who began to uſe the vertue of their legs: drive them, ſpight of Prince <hi>Roberts</hi> fury, to beare them Company and outſtrip them at their owne exerciſe of running away: that Troope and thoſe two foot com<g ref="char:EOLhyphen"/>panies advancing forth of the towne to the reliefe of their companions were undertaken by Captaine <hi>Aſ<g ref="char:EOLhyphen"/>coughs</hi> Troop and ſome foot forces, till the Towneſ-men neere being rid of their unwelcome gueſts, to the number of two hundred wel arm'd, charg'd them upon the backs, then they fell into an appatent rout, following their fly<g ref="char:EOLhyphen"/>ing fellowes, our horſemen having them in the chace, they did execution on their foot fon the ſpace of a miles riding: killing in the chace and the fight to the number of ſix hundred men, moſt of which were the infantery their Cavalry eſcaping by the benefit of their Horſes, found the Proverb verified, one paire of legs is worth two paire of hands. Priſoners of the common ſort there were taken two hundred; of note, not any but one <hi>Dudley Smith</hi> a young gentleman of much courage, who died ſome houres after of his wounds received in the bat<g ref="char:EOLhyphen"/>tell: of our part there fell about fourſcore and ten per<g ref="char:EOLhyphen"/>ſons: too great a number to be loſt, yet gloriouſly they did being, as it were, their Countryes Martyrs. Sir <hi>Willi<g ref="char:EOLhyphen"/>am Balfore</hi> after his victory, marching to Alisbury, ſpent the reſt of that day in prayers and thankſgiving for his good ſucceſſe, to that great God of battels, in whoſe diſpoſe is Conqueſt, and by whoſe almighty and and out ſirecched arme, this victory arriv'd to his ſervants, Prince <hi>Robert</hi> with his flying Troopes, as it were, in re<g ref="char:EOLhyphen"/>venge
+<pb n="8" facs="tcp:113061:5"/>of that overthrow, burning the poore Country vil<g ref="char:EOLhyphen"/>lages in his retreat towards Oxford, where it is reported hee is: and whence ſhortly it is hoped, hee and all thoſe perverſe malignants will be brought to condigne puniſh<g ref="char:EOLhyphen"/>ment. Thus it hath pleaſed the Lord of Hoſts to give vi<g ref="char:EOLhyphen"/>ctory to the Parliaments Forces by an handfull, if com<g ref="char:EOLhyphen"/>par'd with the Enemies numbers: In his power it is to fave with few, as well as with multitudes. To him there<g ref="char:EOLhyphen"/>fore wee ought to aſcribe all praiſe, truſting that hee will deliver us from all our enemice. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
